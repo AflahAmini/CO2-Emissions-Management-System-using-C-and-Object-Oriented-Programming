@@ -822,6 +822,7 @@ int main()
             }
             case 'p' :{
                 f.print();
+                
                 break;
             }
 
